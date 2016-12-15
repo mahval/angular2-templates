@@ -49,7 +49,7 @@ npm run dist
 To start a simple web server for testing type:
 
 ```
-npm run lite
+npm run devserver
 ```
 
 This will start a webserver at http://localhost:3000
